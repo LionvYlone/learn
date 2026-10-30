@@ -2,8 +2,8 @@
 # 运行：.\.venv\Scripts\python.exe day01\hello.py
 
 name = "随缘"
-age = 0          # 改成你的年龄
-height = 1.75    # 改成你的身高（米）
+age =  20        # 改成你的年龄
+height = 1.80    # 改成你的身高（米）
 
 print("你好，" + name)                 # 字符串拼接
 print(f"我今年 {age} 岁，身高 {height} 米")  # f-string，最常用
